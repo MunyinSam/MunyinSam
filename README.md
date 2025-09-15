@@ -1,10 +1,7 @@
-# Hey there 👋
-
 ## About Me
 - 🎓 I’m Sam, a 2nd Year **Software & Knowledge Engineering student @ Kasetsart University (KU)**  
 - 💻 Web Developer passionate about **React, Next.js, and full-stack apps**  
-- 🤖 Also build **Discord bots** and fun side projects  
-- 📚 Always learning and experimenting with new tech  
+- 📚 Dream of making innovative start up in Thailand
 
 ---
 
@@ -21,4 +18,4 @@
 ---
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunyinSam&layout=compact&theme=tokyonight)
