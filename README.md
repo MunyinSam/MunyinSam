@@ -16,12 +16,9 @@
 </p>
 
 ---
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/kelvinsam233?ext=heatmap)
-
 <p align="center">
   <a href="https://github.com/MunyinSam?tab=repositories">
-    <img title="MunyinSam's Github Stats" alt="MunyinSam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MunyinSam&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+    <img title="MunyinSam's Github Stats" alt="MunyinSam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MunyinSam&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
   </a>
 </p>
   
@@ -29,4 +26,8 @@
   <a href="https://github.com/MunyinSam#user-activity-overview">
     <img title="MunyinSam's Github Streak" alt="MunyinSam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MunyinSam" />
   </a>
+</p>
+
+<p align="center">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/kelvinsam233?ext=heatmap)
 </p>
