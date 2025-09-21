@@ -17,9 +17,8 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/MunyinSam?tab=repositories">
-    <img title="MunyinSam's Github Stats" alt="MunyinSam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MunyinSam&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-  </a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinsam233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kelvinsam233's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsam233&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 </p>
   
 <p align="center">
