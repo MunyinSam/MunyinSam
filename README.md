@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/kelvinsam233?ext=heatmap)
+  <img title="MunyinSam's LeetCode Streak" alt="LeetCode's Streak" src="https://leetcard.jacoblin.cool/kelvinsam233?ext=heatmap" />
 </p>
