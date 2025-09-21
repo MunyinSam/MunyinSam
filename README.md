@@ -17,4 +17,4 @@
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kelvinsam233?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kelvinsam233?ext=contest)
