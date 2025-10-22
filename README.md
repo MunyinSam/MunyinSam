@@ -16,17 +16,9 @@
 </p>
 
 ---
-<p align="center">
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MunyinSam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MunyinSam's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunyinSam&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-</p>
   
 <p align="center">
   <a href="https://github.com/MunyinSam#user-activity-overview">
     <img title="MunyinSam's Github Streak" alt="MunyinSam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MunyinSam" />
   </a>
-</p>
-
-<p align="center">
-  <img title="MunyinSam's LeetCode Streak" alt="LeetCode's Streak" src="https://leetcard.jacoblin.cool/kelvinsam233?ext=heatmap" />
 </p>
