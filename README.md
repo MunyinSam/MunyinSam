@@ -14,11 +14,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
 </p>
-
----
-  
-<p align="center">
-  <a href="https://github.com/MunyinSam#user-activity-overview">
-    <img title="MunyinSam's Github Streak" alt="MunyinSam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MunyinSam" />
-  </a>
-</p>
