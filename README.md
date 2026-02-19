@@ -1,6 +1,5 @@
 ## About Me
 - 🎓 I’m Sam, a 2nd Year **Software & Knowledge Engineering student @ Kasetsart University (KU)**  
-- 💻 Web Developer passionate about **React, Next.js, and full-stack apps**  
 - 📚 Dream of making innovative start up in Thailand
 
 ---
