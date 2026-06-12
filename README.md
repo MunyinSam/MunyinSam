@@ -1,8 +1,11 @@
-## About Me
-- 🎓 I’m Sam, a 2nd Year **Software & Knowledge Engineering student @ Kasetsart University (KU)**  
-- 📚 Dream of making innovative start up in Thailand
+## Hi, I'm Sam
+🎓 3rd Year **SKE @ Kasetsart University (KU)**
 
----
+Looking for a passionate dev team to build cool stuff.
+
+## Current Project
+- **[SKE-Schema](https://github.com/MunyinSam/SKEma)** - a platform for SKE students to share files and homework discussions.
+- **[Discord-Music-Bot](https://github.com/MunyinSam/bot)** - a music discord bot that is easy to setup
 
 ## 🛠 Languages and Tools
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
