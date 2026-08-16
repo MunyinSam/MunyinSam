@@ -53,4 +53,4 @@ Looking for a passionate dev team to build cool stuff.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="36" height="36"/>
 </p>
 
-**Applied AI** — LLM integration · prompt engineering · RAG & semantic search · document/audio processing
+**Applied AI** — LLM integration · RAG & semantic search · document/audio processing
