@@ -15,7 +15,7 @@ Looking for a passionate dev team to build cool stuff.
 
 **Building full-stack web apps and LLM-powered tools end-to-end — from schema to UI.**
 
-**Languages** — TypeScript · JavaScript · Python · C++ · Java · C#
+**Languages** — TypeScript · JavaScript · Python
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
